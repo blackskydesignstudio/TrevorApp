@@ -7,8 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D046087D22DE3DB600A4A081 /* TableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D046087C22DE3DB600A4A081 /* TableTableViewController.swift */; };
+		D046087F22DE3FC800A4A081 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D046087E22DE3FC800A4A081 /* PhotosViewController.swift */; };
+		D046088122DE458B00A4A081 /* sample-1093-lightning-bolt-2@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = D046088022DE458B00A4A081 /* sample-1093-lightning-bolt-2@2x.png */; };
+		D046088322DE45E100A4A081 /* sample-305-palm-tree.png in Resources */ = {isa = PBXBuildFile; fileRef = D046088222DE45E100A4A081 /* sample-305-palm-tree.png */; };
+		D065AF8D22D84A8700B42F08 /* TrevorAppIntro.png in Resources */ = {isa = PBXBuildFile; fileRef = D065AF8C22D84A8700B42F08 /* TrevorAppIntro.png */; };
+		D0B504EB22F8BE6400E182C3 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0B504EA22F8BE6400E182C3 /* PhotoViewController.swift */; };
+		D0C9611422EC269200635892 /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C9611322EC269200635892 /* AddTaskViewController.swift */; };
+		D0C9611822EFECFC00635892 /* PhotoCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0C9611722EFECFC00635892 /* PhotoCollectionViewCell.swift */; };
+		D0C9612222EFF22D00635892 /* IMG_0001.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611922EFF22A00635892 /* IMG_0001.JPG */; };
+		D0C9612322EFF22D00635892 /* IMG_0006.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611A22EFF22B00635892 /* IMG_0006.JPG */; };
+		D0C9612422EFF22D00635892 /* IMG_0005.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611B22EFF22B00635892 /* IMG_0005.JPG */; };
+		D0C9612522EFF22D00635892 /* IMG_0007.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611C22EFF22C00635892 /* IMG_0007.JPG */; };
+		D0C9612622EFF22D00635892 /* IMG_0008.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611D22EFF22C00635892 /* IMG_0008.JPG */; };
+		D0C9612722EFF22D00635892 /* IMG_0009.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611E22EFF22C00635892 /* IMG_0009.JPG */; };
+		D0C9612822EFF22D00635892 /* IMG_0004.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9611F22EFF22D00635892 /* IMG_0004.JPG */; };
+		D0C9612922EFF22D00635892 /* IMG_0003.JPG in Resources */ = {isa = PBXBuildFile; fileRef = D0C9612022EFF22D00635892 /* IMG_0003.JPG */; };
+		D0C9612A22EFF22D00635892 /* IMG_0002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0C9612122EFF22D00635892 /* IMG_0002.jpg */; };
 		D0F3465D22C2F84500E467D8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F3465C22C2F84500E467D8 /* AppDelegate.swift */; };
-		D0F3465F22C2F84500E467D8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F3465E22C2F84500E467D8 /* ViewController.swift */; };
 		D0F3466222C2F84500E467D8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0F3466022C2F84500E467D8 /* Main.storyboard */; };
 		D0F3466522C2F84500E467D8 /* TrevorApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D0F3466322C2F84500E467D8 /* TrevorApp.xcdatamodeld */; };
 		D0F3466722C2F84600E467D8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0F3466622C2F84600E467D8 /* Assets.xcassets */; };
@@ -27,9 +43,25 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D046087C22DE3DB600A4A081 /* TableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableTableViewController.swift; sourceTree = "<group>"; };
+		D046087E22DE3FC800A4A081 /* PhotosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
+		D046088022DE458B00A4A081 /* sample-1093-lightning-bolt-2@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sample-1093-lightning-bolt-2@2x.png"; sourceTree = "<group>"; };
+		D046088222DE45E100A4A081 /* sample-305-palm-tree.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sample-305-palm-tree.png"; sourceTree = "<group>"; };
+		D065AF8C22D84A8700B42F08 /* TrevorAppIntro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TrevorAppIntro.png; sourceTree = "<group>"; };
+		D0B504EA22F8BE6400E182C3 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
+		D0C9611322EC269200635892 /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
+		D0C9611722EFECFC00635892 /* PhotoCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoCollectionViewCell.swift; sourceTree = "<group>"; };
+		D0C9611922EFF22A00635892 /* IMG_0001.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0001.JPG; sourceTree = "<group>"; };
+		D0C9611A22EFF22B00635892 /* IMG_0006.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0006.JPG; sourceTree = "<group>"; };
+		D0C9611B22EFF22B00635892 /* IMG_0005.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0005.JPG; sourceTree = "<group>"; };
+		D0C9611C22EFF22C00635892 /* IMG_0007.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0007.JPG; sourceTree = "<group>"; };
+		D0C9611D22EFF22C00635892 /* IMG_0008.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0008.JPG; sourceTree = "<group>"; };
+		D0C9611E22EFF22C00635892 /* IMG_0009.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0009.JPG; sourceTree = "<group>"; };
+		D0C9611F22EFF22D00635892 /* IMG_0004.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0004.JPG; sourceTree = "<group>"; };
+		D0C9612022EFF22D00635892 /* IMG_0003.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0003.JPG; sourceTree = "<group>"; };
+		D0C9612122EFF22D00635892 /* IMG_0002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0002.jpg; sourceTree = "<group>"; };
 		D0F3465922C2F84500E467D8 /* TrevorApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrevorApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0F3465C22C2F84500E467D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D0F3465E22C2F84500E467D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D0F3466122C2F84500E467D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D0F3466422C2F84500E467D8 /* TrevorApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TrevorApp.xcdatamodel; sourceTree = "<group>"; };
 		D0F3466622C2F84600E467D8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -80,12 +112,28 @@
 			isa = PBXGroup;
 			children = (
 				D0F3465C22C2F84500E467D8 /* AppDelegate.swift */,
-				D0F3465E22C2F84500E467D8 /* ViewController.swift */,
 				D0F3466022C2F84500E467D8 /* Main.storyboard */,
+				D0B504EA22F8BE6400E182C3 /* PhotoViewController.swift */,
+				D0C9611722EFECFC00635892 /* PhotoCollectionViewCell.swift */,
+				D046087E22DE3FC800A4A081 /* PhotosViewController.swift */,
+				D0C9611322EC269200635892 /* AddTaskViewController.swift */,
+				D046087C22DE3DB600A4A081 /* TableTableViewController.swift */,
 				D0F3466622C2F84600E467D8 /* Assets.xcassets */,
 				D0F3466822C2F84600E467D8 /* LaunchScreen.storyboard */,
 				D0F3466B22C2F84600E467D8 /* Info.plist */,
 				D0F3466322C2F84500E467D8 /* TrevorApp.xcdatamodeld */,
+				D065AF8C22D84A8700B42F08 /* TrevorAppIntro.png */,
+				D046088022DE458B00A4A081 /* sample-1093-lightning-bolt-2@2x.png */,
+				D046088222DE45E100A4A081 /* sample-305-palm-tree.png */,
+				D0C9611922EFF22A00635892 /* IMG_0001.JPG */,
+				D0C9612122EFF22D00635892 /* IMG_0002.jpg */,
+				D0C9612022EFF22D00635892 /* IMG_0003.JPG */,
+				D0C9611F22EFF22D00635892 /* IMG_0004.JPG */,
+				D0C9611B22EFF22B00635892 /* IMG_0005.JPG */,
+				D0C9611A22EFF22B00635892 /* IMG_0006.JPG */,
+				D0C9611C22EFF22C00635892 /* IMG_0007.JPG */,
+				D0C9611D22EFF22C00635892 /* IMG_0008.JPG */,
+				D0C9611E22EFF22C00635892 /* IMG_0009.JPG */,
 			);
 			path = TrevorApp;
 			sourceTree = "<group>";
@@ -180,9 +228,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D0C9612722EFF22D00635892 /* IMG_0009.JPG in Resources */,
+				D0C9612A22EFF22D00635892 /* IMG_0002.jpg in Resources */,
+				D0C9612422EFF22D00635892 /* IMG_0005.JPG in Resources */,
+				D0C9612222EFF22D00635892 /* IMG_0001.JPG in Resources */,
+				D046088322DE45E100A4A081 /* sample-305-palm-tree.png in Resources */,
+				D046088122DE458B00A4A081 /* sample-1093-lightning-bolt-2@2x.png in Resources */,
+				D065AF8D22D84A8700B42F08 /* TrevorAppIntro.png in Resources */,
+				D0C9612922EFF22D00635892 /* IMG_0003.JPG in Resources */,
 				D0F3466A22C2F84600E467D8 /* LaunchScreen.storyboard in Resources */,
+				D0C9612322EFF22D00635892 /* IMG_0006.JPG in Resources */,
 				D0F3466722C2F84600E467D8 /* Assets.xcassets in Resources */,
+				D0C9612522EFF22D00635892 /* IMG_0007.JPG in Resources */,
 				D0F3466222C2F84500E467D8 /* Main.storyboard in Resources */,
+				D0C9612822EFF22D00635892 /* IMG_0004.JPG in Resources */,
+				D0C9612622EFF22D00635892 /* IMG_0008.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -200,9 +260,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0F3465F22C2F84500E467D8 /* ViewController.swift in Sources */,
+				D046087D22DE3DB600A4A081 /* TableTableViewController.swift in Sources */,
+				D046087F22DE3FC800A4A081 /* PhotosViewController.swift in Sources */,
 				D0F3465D22C2F84500E467D8 /* AppDelegate.swift in Sources */,
 				D0F3466522C2F84500E467D8 /* TrevorApp.xcdatamodeld in Sources */,
+				D0B504EB22F8BE6400E182C3 /* PhotoViewController.swift in Sources */,
+				D0C9611422EC269200635892 /* AddTaskViewController.swift in Sources */,
+				D0C9611822EFECFC00635892 /* PhotoCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -367,6 +431,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 445H4C478U;
 				INFOPLIST_FILE = TrevorApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -385,6 +450,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 445H4C478U;
 				INFOPLIST_FILE = TrevorApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
